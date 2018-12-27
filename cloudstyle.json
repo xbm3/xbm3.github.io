@@ -7,5 +7,14 @@
 },
 {"domain":"mail.sina.com.cn",
  "css":".positionBox{background-color:transparent!important}"
+},
+{"domain":"detail.tmall.com",
+ "css":".tb-prop .tb-img li span{opacity:0.3}"
+},
+{"domain":"douban.com",
+"css":"#anony-reg-new .wrapper{opacity:0.1}"
+},
+{"domain":"azure.microsoft.com",
+"css":"a.button.button-primary{background-color:#89c402!important}"
 }
 ]}
