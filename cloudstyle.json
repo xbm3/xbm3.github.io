@@ -18,6 +18,7 @@
 "css":"a.button.button-primary{background-color:#89c402!important}"
 },
 {"domain":"github.com",
-"css":".shelf .container,.shelf-title,.intro-shelf .shelf-lead,.shelf-dismiss{background-color:transparent!important}"
+"css":".shelf .container,.shelf-content,.shelf-title,.intro-shelf .shelf-lead,.shelf-dismiss{background-color:transparent!important}"
 }
-]}
+],
+"pat":"https:\\/\\/(detail\\.tmall|item\\.taobao)\\..+\\.htm\\?"}
