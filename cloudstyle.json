@@ -3,7 +3,7 @@
   "css":".focus-list a,.p-thumb a,.page .item_url,.p-link,.v .v-link,a.elementLink,.p-meta{opacity:0.3}.focus-list a:hover,.p-thumb a,.page .item_url:hover,.v-meta-overlay,.v .v-link:hover,a.elementLink:hover{opacity:0}.v .vb{background-color:transparent!important}.v .v-thumb,.p .p-thumb{background-image:none}"
 },
 {"domain":"iqiyi.com",
- "css":".qy-focus-index-list .focus-index-itemLink{opacity:0.3}.qy-focus-index-list .focus-index-itemLink:hover{opacity:0}"
+ "css":".qy-focus-index-list .focus-index-itemLink,.qy-focus-thumbnail .img-link{opacity:0.3}.qy-focus-index-list .focus-index-itemLink:hover,.qy-focus-thumbnail .img-link:hover{opacity:0}.qy-focus-thumbnail-list,.qy-focus-thumbnail-list .focus-title-con,.qy-focus-thumbnail-list .focus-title-msg{background-color:transparent!important}"
 },
 {"domain":"mail.sina.com.cn",
  "css":".positionBox{background-color:transparent!important}"
