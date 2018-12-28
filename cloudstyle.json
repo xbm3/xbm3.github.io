@@ -17,4 +17,7 @@
 {"domain":"azure.microsoft.com",
 "css":"a.button.button-primary{background-color:#89c402!important}"
 }
+{"domain":"github.com",
+"css":".shelf .container,.shelf-title,.intro-shelf .shelf-lead,.shelf-dismiss{background-color:transparent!important}"
+}
 ]}
