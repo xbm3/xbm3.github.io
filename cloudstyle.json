@@ -19,6 +19,8 @@
 },
 {"domain":"github.com",
 "css":".shelf .container,.shelf-content,.shelf-title,.intro-shelf .shelf-lead,.shelf-dismiss{background-color:transparent!important}"
-}
+},
+{"domain":"pixiv.net","css":"div#wrapper{opacity:0.5}"},
+{"domain":"accounts.pixiv.net","css":"body{opacity:0.5}"}
 ],
 "pat":"https:\\/\\/(detail\\.tmall|item\\.taobao)\\..+\\.htm\\?"}
