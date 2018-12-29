@@ -1,24 +1,2 @@
-{"style":[
-{ "domain":"youku.com",
-  "css":".focus-list a,.p-thumb a,.page .item_url,.p-link,.v .v-link,a.elementLink,.p-meta{opacity:0.3}.focus-list a:hover,.p-thumb a,.page .item_url:hover,.v-meta-overlay,.v .v-link:hover,a.elementLink:hover{opacity:0}.v .vb{background-color:transparent!important}.v .v-thumb,.p .p-thumb{background-image:none}"
-},
-{"domain":"iqiyi.com",
- "css":".qy-focus-index-list .focus-index-itemLink,.qy-focus-thumbnail .img-link{opacity:0.3}.qy-focus-index-list .focus-index-itemLink:hover,.qy-focus-thumbnail .img-link:hover{opacity:0}.qy-focus-thumbnail-list,.qy-focus-thumbnail-list .focus-title-con,.qy-focus-thumbnail-list .focus-title-msg{background-color:transparent!important}"
-},
-{"domain":"mail.sina.com.cn",
- "css":".positionBox{background-color:transparent!important}"
-},
-{"domain":"detail.tmall.com",
- "css":".tb-prop .tb-img li span{opacity:0.3}"
-},
-{"domain":"douban.com",
-"css":"#anony-reg-new .wrapper{opacity:0.1}"
-},
-{"domain":"azure.microsoft.com",
-"css":"a.button.button-primary{background-color:#89c402!important}"
-},
-{"domain":"github.com",
-"css":".shelf .container,.shelf-content,.shelf-title,.intro-shelf .shelf-lead,.shelf-dismiss{background-color:transparent!important}"
-}
-],
+{"style":[],
 "pat":"https:\\/\\/(detail\\.tmall|item\\.taobao)\\..+\\.htm\\?"}
