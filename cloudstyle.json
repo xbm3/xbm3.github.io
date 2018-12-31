@@ -22,6 +22,7 @@
 },
 {"domain":"pixiv.net","css":"div#wrapper{opacity:0.5}.title-container{background-color:transparent!important}"},
 {"domain":"accounts.pixiv.net","css":"body{opacity:0.5}"},
-{"domain":"tw.yahoo.com","css":".Stretch,.Stretch:hover{background-color:transparent!important}#MouseoverMask{opacity:0}"}
+{"domain":"tw.yahoo.com","css":".Stretch,.Stretch:hover{background-color:transparent!important}#MouseoverMask{opacity:0}"},
+{"domain":"youtube.com","css":".ytp-miniplayer-ui,.ytp-miniplayer-scrim:hover{background-color:transparent!important}"}
 ],
 "pat":"https:\\/\\/(detail\\.tmall|item\\.taobao)\\..+\\.htm\\?"}
