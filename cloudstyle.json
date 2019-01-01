@@ -24,6 +24,8 @@
 {"domain":"accounts.pixiv.net","css":"body{opacity:0.5}"},
 {"domain":"tw.yahoo.com","css":".Stretch,.Stretch:hover{background-color:transparent!important}#MouseoverMask{opacity:0}"},
 {"domain":"youtube.com","css":".ytp-miniplayer-ui,.ytp-miniplayer-scrim:hover,.ytd-thumbnail:hover,#search-container{background-color:transparent!important}.ytp-swatch-background-color{background-color:#f00!important}.ytp-progress-list{background-color:rgba(255,255,255,.2)!important}.ytp-load-progress{background-color:rgba(255,255,255,.4)important}.ytp-hover-progress{background-color:rgba(0,0,0,.125)!important}"},
-{"domain":"google.com","css":".OIL2le,.OIL2le:hover{background-color:rgba(0,0,0,.12)!important}.w8qArf .fl{background-color:#666!important}"} 
+{"domain":"google.com","css":".OIL2le,.OIL2le:hover{background-color:rgba(0,0,0,.12)!important}.w8qArf .fl{background-color:#666!important}"},
+{"domain":"","css":".fbIndex .gradient{background: linear-gradient(#aaa, #222)!important}input.inputtext{background-color:transparent!important}"},
+{"domain":"ifeng.com","css":"li{background:none!important}"} 
 ],
 "pat":"https:\\/\\/(detail\\.tmall|item\\.taobao)\\..+\\.htm\\?"}
