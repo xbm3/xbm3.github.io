@@ -30,6 +30,6 @@
 {"domain":"v.huya.com","css":"._27zNGHUfqGTKw5H0R78xAy,._2U3tBf4WANPUxrf3tjifvH,._2LNO7mPG5ezROX1-_cjxhQ,.AgBXklDo2Ouv7r2D_EU9N{background-color:transparent!important}._2EE9Odl4_LKcYLWSQt8sQ9{background-color:rgba(255,0,0,0)!important}.B4oG6M-Xr-ZTFprna6Jdb{background-color:#ff9600!important}._1rUjG0HzV6GTzFtM7W0Z8q{background:#999!important}._3aQXcLil53Jg2QSIcIvnLY{background:#eff0f1!important}"},
 {"domain":"huya.com","css":".momentVideo-ui,.momentVideo-play-status,.mmtv-ps-playing,.mmtv-ps-paused,.mmtv-ps-ended,.highlight,.img-mask,.room-miniPlayer{background:transparent!important}.left-banner,.right-banner,.drag-tips{background:rgba(0,0,0,0.5)!important}"},
 {"domain":"weibo.com","css":".wbv-pop-layer,.pf_opt,.pf_intro,.pf_username{background:transparent!important}.S_shadow{background-color:transparent!important}"},
-{"domain":"v.youku.com","css":".p-thumb a,.stlw0vs4r5ip,.h5-layer-conatiner,.yk-trigger-layer,.h5-ext-layer,.yk-player-danmu{background:transparent!important}"} 
+{"domain":"v.youku.com","css":".p-thumb a,.h5-layer-conatiner div div,.h5-layer-conatiner,.yk-trigger-layer,.h5-ext-layer,.yk-player-danmu{background:transparent!important}"} 
 ],
 "pat":"https:\\/\\/(detail\\.tmall|item\\.taobao)\\..+\\.htm\\?"}
